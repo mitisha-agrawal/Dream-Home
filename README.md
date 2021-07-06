@@ -1,6 +1,6 @@
 # DreamHome : Real Estate Website 
 
-Property Selling, Buying, Renting website which includes registration and searching of the different property on the basis of requirements, using MVC level-4 architecture. Also included integrated search and admin-end.
+Real-Estate website implementing functionalities of Property Selling, Buying & Renting which includes registration and searching of the different property on the basis of requirements. Also included integrated search and admin-end.
 
 ### Tools : 
 Netbeans 8.2 and SQLYog
